@@ -1,0 +1,17 @@
+{
+  "name": "pawsitionApp",
+  "displayName": "pawsitionApp",
+  "expo": {
+    "name": "pawsitionApp",
+    "slug": "pawsitionApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+
+    "android": {
+      "package": "com.DarraghOBrien.pawsitionApp",
+      "versionCode": 1
+    }
+  }
+}
